@@ -1,0 +1,7 @@
+pyrit==0.3.0
+pytest
+mock_alchemy
+torch
+Pillow
+aioconsole
+pytest-asyncio
